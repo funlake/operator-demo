@@ -1,0 +1,6 @@
+apiVersion: lake.demo.lake.com/v1alpha1
+kind: Demo
+metadata:
+  name: demo-sample
+spec:
+  # TODO(user): Add fields here
